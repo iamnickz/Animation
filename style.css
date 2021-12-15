@@ -46,7 +46,7 @@
         display:inline;
     }
     .navigation, .header {
-        display: grid;
+        display: none;
         
     }
 }
